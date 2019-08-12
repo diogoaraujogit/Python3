@@ -1,3 +1,5 @@
+## **TIC-TAC-TOE**
+
 ### **INTRO**
 This is a two-person tic-tac-toe developed in Python using Kivy library. Download the files and run the main.py.
 The game is in portuguese for now, other languages will be available at some point, as well as the encapsulation of 
